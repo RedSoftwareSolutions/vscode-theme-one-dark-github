@@ -2,12 +2,12 @@
     "name": "rss-one-dark-github",
     "displayName": "RSS One Dark GitHub",
     "description": "One Dark Pro tokens merged with GitHub Theme \"Dark Default\" application colors",
-    "version": "1.0.0",
-		"publisher": "RedSoftwareSolutions",
-		"repository": {
-			"type": "git",
-			"url": "https://github.com/RedSoftwareSolutions/vscode-theme-one-dark-github"
-		},
+    "version": "2.0.0",
+    "publisher": "RedSoftwareSolutions",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/RedSoftwareSolutions/vscode-theme-one-dark-github"
+    },
     "engines": {
         "vscode": "^1.54.0"
     },

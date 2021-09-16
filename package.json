@@ -1,8 +1,8 @@
 {
     "name": "rss-one-dark-github",
     "displayName": "RSS One Dark GitHub",
-    "description": "One Dark Pro tokens merged with GitHub Theme application colors",
-    "version": "0.0.1",
+    "description": "One Dark Pro tokens merged with GitHub Theme \"Dark Default\" application colors",
+    "version": "0.0.2",
 		"publisher": "RedSoftwareSolutions",
 		"repository": {
 			"type": "git",
